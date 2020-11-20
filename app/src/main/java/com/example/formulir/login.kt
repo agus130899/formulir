@@ -10,7 +10,6 @@ import com.example.formulir.login
 import com.firebase.ui.auth.AuthUI
 import com.firebase.ui.auth.IdpResponse
 import com.google.firebase.auth.FirebaseAuth
-import com.google.firebase.ktx.Firebase
 import kotlinx.android.synthetic.main.activity_login.*
 
 class login : AppCompatActivity(), View.OnClickListener {

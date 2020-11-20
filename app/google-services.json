@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "2481237764",
+    "firebase_url": "https://formulir-db281.firebaseio.com",
+    "project_id": "formulir-db281",
+    "storage_bucket": "formulir-db281.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2481237764:android:c3d07891d60ac639dd6a51",
+        "android_client_info": {
+          "package_name": "com.example.formulir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2481237764-qiuanu4kh5ki8qi1r7nlsf14h12fqpdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.formulir",
+            "certificate_hash": "e00e655193408e2acab127597acb8ac23322306d"
+          }
+        },
+        {
+          "client_id": "2481237764-s5d3ms7ve18rrke0vetg0dbk3daco9ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_q08BFeZr3Kp_HPCYMglTN9RtzMsnFjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2481237764-s5d3ms7ve18rrke0vetg0dbk3daco9ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
