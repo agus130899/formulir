@@ -77,10 +77,10 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                             startActivity(intent)
                             finish()
                         }
-
                     })
             }
             R.id.viewdata -> {
+                startActivity(Intent(this@MainActivity, MyListData::class.java))
 
             }
         }
